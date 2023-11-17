@@ -24,3 +24,9 @@ Since beginning my journey as a Fresh Graduate as Web developer and IT Support, 
 <br />
 
 #
+
+---
+
+<p align="center">
+[![Discord Presence](https://lanyard.kyrie25.me/api/757152370516820060)](https://discord.com/users/757152370516820060)
+</p>
