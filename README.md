@@ -29,3 +29,6 @@ Since beginning my journey as a Fresh Graduate as Web developer and IT Support, 
 <p align="left">
     <img src="https://lanyard.kyrie25.me/api/757152370516820060" />
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bagusrizal22&layout=compact&theme=tokyonight" />
+</p>
