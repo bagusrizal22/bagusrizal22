@@ -33,3 +33,4 @@ Since beginning my journey as a Fresh Graduate as Web developer and IT Support, 
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bagusrizal22&layout=compact&theme=tokyonight" />
 </p> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra&layout=compact&theme=tokyonight"
