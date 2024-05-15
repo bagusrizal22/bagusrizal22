@@ -26,7 +26,7 @@ Since beginning my journey as a Fresh Graduate as Web developer and IT Support, 
 
 ---
 
-<p align="left">
+<p align="center">
     <img src="https://lanyard.kyrie25.me/api/757152370516820060" />
 </p>
 <p align="center">
